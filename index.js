@@ -2,7 +2,6 @@
 
 
 const operations = ['+', '-', '/', '*']
-
 let total = 0
 
 const calculate = (calculationSteps) => {
