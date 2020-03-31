@@ -38,8 +38,6 @@ const calculate = (calculationSteps) => {
 
       return total
   }
-
-  return total
 }
 
 
